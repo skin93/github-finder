@@ -1,6 +1,6 @@
-# Github Finder
+# GitHub Finder
 
-Simple React aplication for searching Github profiles. App deployed on Netlify.
+Simple React aplication for searching GitHub profiles. App deployed on Netlify.
 
 ## Built with
 ```
